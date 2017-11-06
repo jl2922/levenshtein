@@ -1,4 +1,4 @@
-Case #1:
+Case #0:
 0 1 2 3
-Case #2:
+Case #1:
 0 2 4
