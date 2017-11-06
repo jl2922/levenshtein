@@ -1,6 +1,6 @@
 CXX := g++
 CXX_WARNING_OPTIONS := -Wall -Wextra -Wno-expansion-to-defined -Wno-int-in-bool-context
-CXXFLAGS := -std=c++17 -O3 $(CXX_WARNING_OPTIONS)
+CXXFLAGS := -std=c++17 -g -O3 $(CXX_WARNING_OPTIONS)
 SRC_DIR := src
 OBJ_DIR := build
 EXE := lev.x

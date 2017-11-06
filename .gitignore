@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+*.x
+
+# IDE files
+.vscode
+*.dSYM
+
+# Runtime files
+output.txt
