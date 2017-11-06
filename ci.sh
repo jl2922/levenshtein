@@ -1,2 +1,2 @@
 cp ci.mk local.mk
-make -j
+make -j 8

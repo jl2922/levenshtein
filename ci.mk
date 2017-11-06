@@ -1,1 +1,1 @@
-CXX := g++-6
+CXX := $(CXX_COMPILER)
